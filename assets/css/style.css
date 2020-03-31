@@ -1,4 +1,6 @@
-.ex1 {
-    background-color: blue;
-    padding: 10px
+.backgroundColor {
+    background-color: blue
+}
+.paddingText {
+    padding: 10px 10px 10px 10px
 }
